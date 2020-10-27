@@ -24,7 +24,7 @@ chardet==3.0.4
 configparser==4.0.2
 constantly==15.1.0
 croniter==0.3.30
-cryptography==2.7
+cryptography==3.2
 daphne==2.3.0
 defusedxml==0.6.0
 diff-match-patch==20181111
