@@ -83,7 +83,7 @@ msgpack==0.6.2
 oauthlib==3.1.0
 odfpy==1.4.0
 openpyxl==3.0.0
-paramiko==2.6.0
+paramiko==2.10.1
 pbr==5.4.3
 phonenumbers==8.10.16
 Pillow==6.1.0
