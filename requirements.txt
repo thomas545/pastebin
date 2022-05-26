@@ -115,7 +115,7 @@ tablib==0.14.0
 texttable==0.9.1
 thehive4py==1.6.0
 twilio==6.0.0
-Twisted==19.7.0
+Twisted==22.4.0
 txaio==18.8.1
 tzlocal==2.0.0
 urllib3==1.24.3
