@@ -16,7 +16,7 @@ boto3==1.9.243
 botocore==1.12.243
 cached-property==1.5.1
 celery==4.3.0
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.12.3
 channels==2.3.0
 channels-redis==2.4.0
